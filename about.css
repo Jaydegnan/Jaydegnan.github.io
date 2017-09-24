@@ -1,0 +1,97 @@
+html {
+    height: 100%;
+  }
+  body {
+     background: url(http://cdn3-www.dogtime.com/assets/uploads/gallery/30-impossibly-cute-puppies/impossibly-cute-puppy-21.jpg);
+     background-repeat: no-repeat;
+     background-position: 100% 100%;
+     background-attachment: fixed;
+     width: 75%;
+     height: 100%;
+  }
+
+  header {
+      background-color: #F497FF;
+      font-size: 30px;
+      font-family: fantasy;
+      border: 0px solid #CAB6CC;
+      padding-left: 30px;
+      margin: 0px;
+      /*top right bottom left, see CSS tricks for rules on this*/
+      display: block;
+      width: 70%;
+  }
+  nav {
+      font-weight:bold;
+      font-family:verdana;
+      float: left;
+      width: 100%;
+
+  }
+  nav ul {
+      padding: ;
+      float: left;
+      border-bottom: ;
+      list-style-type: none;
+  }
+  nav li {
+      float: left;
+  }
+  nav li a {
+      display: block;
+      height: 20px;
+      padding: 0px 18px 0px 18px;
+      vertical-align: middle;
+  }
+  a {
+      text-decoration: none;
+      color: ;
+  }
+  p {
+      font-family: arial;
+  }
+  h2 {
+      font-family: verdana;
+  }
+  section {
+      width: 73%;
+      display: inline-block;
+      float: left;
+  }
+  .indented {
+      margin: 20px 0px 0px 30px;
+
+  }
+
+  .highlighted {
+    background-color: #FCE3FF;
+    width: 73%;
+  }
+
+  .highlighted2 {
+    background-color: #FCE3FF;
+    width: 97%;
+  }
+
+  article {
+    padding-left:30px;
+  }
+
+  }
+  aside {
+      width: 17%;
+      display: inline-block;
+      background-color:;
+      padding:;
+      min-height: 100%;
+  }
+  aside ul {
+      list-style-type: none;
+  }
+  footer {
+      width: 790px;
+      background-color:;
+      color:;
+      clear: both;
+      display: block;
+  }
